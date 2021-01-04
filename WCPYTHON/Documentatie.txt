@@ -1,0 +1,2 @@
+https://www.w3resource.com/python-exercises/python-basic-exercise-85.php
+https://realpython.com/working-with-files-in-python/
